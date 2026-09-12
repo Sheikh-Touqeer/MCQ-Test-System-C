@@ -1,0 +1,351 @@
+If f(x) = 2x^2 - 3x + 5, find f'(x).
+A) 2x - 3
+B) 4x - 3
+C) 2x + 3
+D) 4x + 3
+B
+
+In projectile motion, the horizontal range is maximum when the angle of projection is:
+A) 30
+B) 45
+C) 60
+D) 90
+B
+
+The rate constant of a reaction increases with:
+A) Increase in concentration
+B) Increase in temperature
+C) Decrease in pressure
+D) Decrease in volume
+B
+
+Choose the correct antonym of "Opaque":
+A) Transparent
+B) Dark
+C) Dense
+D) Thick
+A
+
+Solve: log 10 = ?
+A) 10
+B) 100
+C) 1
+D) 0
+C
+
+Work done by a force of 10 N moving an object 2 m at an angle 60 to the displacement is:
+A) 10 J
+B) 20 J
+C) 5 J
+D) 15 J
+A
+
+Which element is used as a semiconductor in electronics?
+A) Silicon
+B) Iron
+C) Aluminium
+D) Lead
+A
+
+Identify the correct meaning of the idiom "Break the ice":
+A) Start a conversation
+B) Shatter ice physically
+C) Make cold
+D) Stop talking
+A
+
+The derivative of sin(x) is:
+A) cos(x)
+B) -cos(x)
+C) sin(x)
+D) -sin(x)
+A
+
+The molar mass of CO2 is:
+A) 12 g/mol
+B) 16 g/mol
+C) 44 g/mol
+D) 32 g/mol
+C
+
+If the sum of squares of two numbers is 50 and their product is 21, the sum of numbers is:
+A) 5
+B) 7
+C) 9
+D) 11
+C
+
+The velocity of sound is least in:
+A) Air
+B) Water
+C) Steel
+D) Vacuum
+A
+
+Which of the following is a strong acid?
+A) CH3COOH
+B) HCl
+C) H2CO3
+D) HCN
+B
+
+Correct the sentence: "Neither of the boys were present."
+A) is present
+B) are present
+C) was present
+D) were present
+C
+
+Integral of 1/x dx is:
+A) ln|x| + C
+B) x + C
+C) e^x + C
+D) 1/x^2 + C
+A
+
+The angular momentum of a particle moving in a straight line:
+A) Zero
+B) Constant
+C) Increasing
+D) Decreasing
+A
+
+Which of the following is amphoteric?
+A) NaOH
+B) HCl
+C) Al(OH)3
+D) H2SO4
+C
+
+Identify the correct synonym of "Obfuscate":
+A) Clarify
+B) Confuse
+C) Explain
+D) Simplify
+B
+
+The general solution of cos(x) = 1 is:
+A) x = 90
+B) x = 0
+C) x = 180
+D) x = 270
+B
+
+The bond angle in NH3 is approximately:
+A) 90
+B) 107
+C) 109.5
+D) 120
+B
+
+Logarithmic differentiation is useful when:
+A) Variable is alone
+B) Function is a product or quotient of variables
+C) Function is constant
+D) Function is linear
+B
+
+Power of lens formula: P = ?
+A) 100/f (cm)
+B) 100/f (m)
+C) 1/f (m)
+D) 1000/f (cm)
+A
+
+The pH of a 0.01 M HCl solution is:
+A) 1
+B) 2
+C) 3
+D) 4
+B
+
+Find the value of x if 2^x = 16:
+A) 2
+B) 3
+C) 4
+D) 5
+C
+
+The work done in moving a charge of 2 C through a potential difference of 5 V is:
+A) 5 J
+B) 7 J
+C) 10 J
+D) 12 J
+C
+
+Which is a covalent compound?
+A) NaCl
+B) H2O
+C) K2O
+D) MgO
+B
+
+The sum to n terms of an AP is:
+A) n/2 [2a + (n - 1)d]
+B) n/2 [a + (n - 1)d]
+C) n[a + (n - 1)d]/2
+D) n(a + d)
+A
+
+Kinetic energy of a particle is directly proportional to:
+A) Velocity
+B) Square of velocity
+C) Mass * velocity
+D) Mass * velocity^2
+B
+
+Which of the following gases is most soluble in water?
+A) O2
+B) H2
+C) NH3
+D) N2
+C
+
+Identify the correct metaphor:("He is a lion in the fight."):
+A) Simile
+B) Metaphor
+C) Hyperbole
+D) Personification
+B
+
+The inverse of y = e^x is:
+A) y = ln(x)
+B) y = 1/x
+C) y = e^-x
+D) y = log(x)
+A
+
+In a chemical reaction, the limiting reagent:
+A) Is left unreacted
+B) Determines the amount of product
+C) Is always in excess
+D) Has no effect
+B
+
+One word substitution: "Fear of water":
+A) Acrophobia
+B) Hydrophobia
+C) Claustrophobia
+D) Xenophobia
+B
+
+Derivative of ln(x) is:
+A) ln(x)
+B) 1/x
+C) x
+D) e^x
+B
+
+Law of conservation of momentum states:
+A) Momentum is not conserved
+B) Total momentum before collision = total momentum after collision
+C) Momentum decreases in a collision
+D) Momentum depends on mass only
+B
+
+Which of the following is a noble gas?
+A) Nitrogen
+B) Argon
+C) Oxygen
+D) Hydrogen
+B
+
+The solution of x^2 - 5x + 6 = 0 is:
+A) x = 1, 6
+B) x = 2, 3
+C) x = 3, 2
+D) x = -2, -3
+B
+
+Capillary rise occurs due to:
+A) Cohesion
+B) Adhesion
+C) Viscosity
+D) Surface tension
+D
+
+The electron configuration of Oxygen is:
+A) 1s^2 , 2s^2 , 2p^4
+B) 1s^2 , 2s^2 , 2p^6
+C) 1s^2 , 2s^2
+D) 1s^2 , 2p^4
+A
+
+Choose the correct homophone:("They went to the ___.")
+A) Sea
+B) See
+C) Say
+D) Saw
+A
+
+Sum of interior angles of a pentagon is:
+A) 540
+B) 360
+C) 720
+D) 480
+A
+
+The acceleration due to gravity decreases with:
+A) Increase in mass
+B) Increase in altitude
+C) Increase in weight
+D) Increase in density
+B
+
+Which is a primary amine?
+A) CH3NH2
+B) (CH3)2NH
+C) (CH3)3N
+D) NH3
+A
+
+Synonym of "Loquacious" is:
+A) Silent
+B) Talkative
+C) Angry
+D) Weak
+B
+
+In ideal gas equation PV = nRT, T is measured in:
+A) Celsius
+B) Kelvin
+C) Fahrenheit
+D) Rankine
+B
+
+If a^2 - b^2 = (a - b)(a + b), then (x^2 - 9) = ?
+A) (x - 3)(x + 3)
+B) (x - 3)^2
+C) (x + 3)^2
+D) x(x - 9)
+A
+
+The lens used to correct myopia is:
+A) Convex
+B) Concave
+C) Plano
+D) Cylindrical
+B
+
+Rate of reaction doubles when:
+A) Temperature decreases by 10 C
+B) Temperature increases by 10 C
+C) Concentration decreases
+D) Volume increases
+B
+
+Solve for x: 2x + 7 = 15
+A) 3
+B) 4
+C) 5
+D) 6
+B
+
+50. Which of the following represents an isomer of C2H6O?
+A) CH3CH2OH
+B) CH3OCH3
+C) Both A & B
+D) None
+C
+
+
